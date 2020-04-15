@@ -1,0 +1,28 @@
+AssignmentType: Lab
+PublishType: Scheduled
+Description: "<br><div><a href="https://docs.google.com/document/d/1jDOMh7h5nCSnm2DmD1p6xcUxfbQcs38CMu5QbWaDQCI/edit?usp=sharing" title="Problem Statement" target="_blank">Problem Statement</a></div>"
+PublishOn: 2020-02-17 11:08
+Deadline: 2020-03-16 18:29
+FreezingDeadline: 2020-03-17 18:29
+CalculateExecutionTime?: True
+SendGradingEmailsToAll?: False
+AdvanceCorrectnessChecker?: False
+OrderIsImportant?: False
+EnterValueOfErrorRate: 0.0
+SeeHowWellStudentsIndentTheirCode?: False
+GraphicsProgram?: False
+ProgrammingLanguage: C++
+FilesToBeSubmitted: main.cpp bridgesim.cpp bridgesim.h bridge.h bridge.cpp
+
+SectionType: Practice
+SectionName: Practice Testcases
+CompilerCommand: g++|-std=c++14|main.cpp bridgesim.cpp bridge.cpp
+
+Description: "Practice Testcases<br>"
+
+TestcaseName: test1
+CommandLineArguments:  
+Marks:  10.0
+Description: ""
+TestcaseLevelPartialMarkingScheme?: False
+
